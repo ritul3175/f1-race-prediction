@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+fastf1>=3.9.0
+xgboost
+matplotlib
+scipy
